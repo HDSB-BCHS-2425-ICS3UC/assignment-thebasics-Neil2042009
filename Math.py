@@ -1,6 +1,6 @@
 addition = 2+2
 print("The addition is 2+2 and the result is", addition)
-#Addition is to add numbers
+#My code is giving the examples of Additions, Addition is to add numbers
 
 subtraction = 2-2
 print("The subtraction is 2-2 and the result is", subtraction)
@@ -28,4 +28,5 @@ print("The Square Root is square root 25 and the result is",square)
 #Square root is to find a square root of numbers
 
 nth_power = 2**4
-print("The exponents is 2*2*2(2**4) and the result is",nth_power)
+print("The exponents is 2*2*2*2(2**4) and the result is",nth_power)
+#Exponents are numbers ,ultiplied by themselves
