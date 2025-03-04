@@ -19,3 +19,7 @@ print(death)
 
 print("The letter combination you see is the string")
 #This is the string, it is combination of characters.
+
+#Author: Neil
+#Date Modified: February 27, 2025
+#Description: To show each type of variable we mentioned in class.
